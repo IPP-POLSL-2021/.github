@@ -1,4 +1,8 @@
-Siema , jesteśmy grupą studentów z Politechniki Śląskiej. Publiczne są niektóre projekty zaliczeniowe. Jeśli jesteś z tego samego roku i kierunku co my (4 semestr Infomatyki na tym lepszym wydziale) To napisz maila z nickiem to cię dodamy.
+Uczelnia: Politechnika Śląska
+Wydział : Matematyka Stosowana
+Kierunek: Informatyka (profil praktyczny)
+Rok rozpoczęcia studiów : 2021 
+Repozytoria które są widoczne przedstawiają niektóre projekty zaliczeniowe
 <!--
 
 **Here are some ideas to get you started:**
