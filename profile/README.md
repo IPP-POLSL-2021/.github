@@ -1,8 +1,8 @@
-Uczelnia: Politechnika Śląska
-Wydział : Matematyka Stosowana
-Kierunek: Informatyka (profil praktyczny)
-Rok rozpoczęcia studiów : 2021 
-Repozytoria które są widoczne przedstawiają niektóre projekty zaliczeniowe
+Uczelnia: Politechnika Śląska <br>  
+Wydział : Matematyka Stosowana <br>
+Kierunek: Informatyka (profil praktyczny) <br>
+Rok rozpoczęcia studiów : 2021  <br>
+Repozytoria które są widoczne przedstawiają niektóre projekty zaliczeniowe <br>
 <!--
 
 **Here are some ideas to get you started:**
